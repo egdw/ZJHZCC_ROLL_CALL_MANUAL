@@ -15,7 +15,7 @@
   - [立即反馈](feedback.md)
 
 - 教师使用教程
-  - [教师点名]()
+  - [教师点名](teacherCallRoll.md)
     - [添加点名夹](/teacher/addCallRollFolder.md)
     - [删除点名夹](/teacher/deleteCallRollFolder.md)
     - [重命名点名夹](/teacher/renameCallRollFolder.md)
